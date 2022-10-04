@@ -245,6 +245,131 @@
     </section>
 
 
+    <section class="review" id="review">
+
+        <h1 class="heading">Review <span> de clientes </span> </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="images/quote-img.png" alt="" class="quote">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolores sed vel beatae ab, illo natus doloremque eum impedit laborum!</p>
+                <img src="images/pic-1.png" class="user" alt="">
+                <h3>Elias Gonzalez</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/quote-img.png" alt="" class="quote">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolores sed vel beatae ab, illo natus doloremque eum impedit laborum!</p>
+                <img src="images/pic-2.png" class="user" alt="">
+                <h3>Elias Gonzalez</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/quote-img.png" alt="" class="quote">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolores sed vel beatae ab, illo natus doloremque eum impedit laborum!</p>
+                <img src="images/pic-3.png" class="user" alt="">
+                <h3>Elias Gonzalez</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="contact" id="contact">
+
+        <h1 class="heading"> <span> contacta con </span> nosotros </h1>
+
+        <div class="row">
+
+            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5092.3667300780335!2d-54.61029298615985!3d-25.510147142502746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f6854c573a7187%3A0x8598b961c21c034!2sDudu%20Empanadas%20-%20Mister%20Burger!5e0!3m2!1ses!2spy!4v1664889207518!5m2!1ses!2spy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+            <form action="">
+
+                <div class="inputBox">
+                    <span class="fas fa-user"></span>
+                    <input type="text" placeholder="name">
+                </div>
+                <div class="inputBox">
+                    <span class="fas fa-envelope"></span>
+                    <input type="email" placeholder="email">
+                </div>
+                <div class="inputBox">
+                    <span class="fas fa-phone"></span>
+                    <input type="number" placeholder="number">
+                </div>
+                <input type="submit" value="contact now" class="btn">
+
+            </form>
+        </div>
+
+    </section>
+
+    <section class="blogs" id="blogs">
+
+        <h1 class="heading">Nuestros <span> blogs </span> </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/blog-1.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">tasty and refreshing coffee</a>
+                    <span>by admin / 21 may, 2021</span>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem quae consequuntur corrupti repudiandae beatae rerum ut! Adipisci ut architecto aliquid?</p>
+                    <a href="#" class="btn">Leer más</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="image">
+                    <img src="images/blog-2.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">tasty and refreshing coffee</a>
+                    <span>by admin / 21 may, 2021</span>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem quae consequuntur corrupti repudiandae beatae rerum ut! Adipisci ut architecto aliquid?</p>
+                    <a href="#" class="btn">Leer más</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="image">
+                    <img src="images/blog-3.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">tasty and refreshing coffee</a>
+                    <span>by admin / 21 may, 2021</span>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem quae consequuntur corrupti repudiandae beatae rerum ut! Adipisci ut architecto aliquid?</p>
+                    <a href="#" class="btn">Leer más</a>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
 
 
 
